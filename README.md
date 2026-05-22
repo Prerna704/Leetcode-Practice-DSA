@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -45,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
