@@ -56,8 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->
