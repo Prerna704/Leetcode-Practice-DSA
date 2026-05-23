@@ -14,6 +14,6 @@ class Solution {
         j++;
        }
       
-       return (double)(maxSum / k);
+       return (maxSum / k);
     }
 }
