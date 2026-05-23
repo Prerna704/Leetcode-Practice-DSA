@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
