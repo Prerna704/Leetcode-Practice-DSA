@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
