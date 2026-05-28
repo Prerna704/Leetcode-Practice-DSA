@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0344-reverse-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 ## Dynamic Programming
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
