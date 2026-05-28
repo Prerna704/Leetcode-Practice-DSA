@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0344-reverse-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -115,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
