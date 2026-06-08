@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0115-distinct-subsequences/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 ## Sorting
