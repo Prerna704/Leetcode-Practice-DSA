@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -187,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0011-container-with-most-water/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
