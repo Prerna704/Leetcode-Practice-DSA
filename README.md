@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0344-reverse-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -214,10 +217,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0206-reverse-linked-list/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
