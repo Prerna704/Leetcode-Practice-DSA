@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0055-jump-game/) | Medium |
+| [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
