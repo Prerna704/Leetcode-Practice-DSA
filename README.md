@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0055-jump-game/) | Medium |
+| [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
 | [0561-array-partition](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0561-array-partition/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -226,10 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
