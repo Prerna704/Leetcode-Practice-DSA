@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
