@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
