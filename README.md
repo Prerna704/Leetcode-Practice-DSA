@@ -319,5 +319,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0183-customers-who-never-order/) | Easy |
 <!---LeetCode Topics End-->
