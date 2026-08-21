@@ -330,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0608-tree-node](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0608-tree-node/) | Medium |
+| [0626-exchange-seats](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
 <!---LeetCode Topics End-->
