@@ -323,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
 <!---LeetCode Topics End-->
