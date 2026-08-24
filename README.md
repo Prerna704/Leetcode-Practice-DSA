@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Array
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
