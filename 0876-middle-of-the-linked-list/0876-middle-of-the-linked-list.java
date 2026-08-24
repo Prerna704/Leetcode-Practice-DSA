@@ -10,14 +10,14 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        if(head== null) return null;
-        ListNode temp = head;
+      if(head== null)return null;
         ListNode hare = head;
         ListNode turtle = head;
-        while(hare != null && hare.next != null){
+        while(hare !=null && hare.next != null){
             hare = hare.next.next;
             turtle = turtle.next;
         }
         return turtle;
+
     }
 }
