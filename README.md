@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [3451-find-invalid-ip-addresses](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3451-find-invalid-ip-addresses/) | Hard |
+| [3482-analyze-organization-hierarchy](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3482-analyze-organization-hierarchy/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
