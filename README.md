@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0112-path-sum/) | Easy |
+| [0133-clone-graph](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0133-clone-graph](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
