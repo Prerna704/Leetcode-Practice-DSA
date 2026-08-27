@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1664-ways-to-make-a-fair-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
 ## Sorting
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1510-stone-game-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
@@ -393,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -456,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -494,4 +503,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
