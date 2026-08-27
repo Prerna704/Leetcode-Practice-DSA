@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0047-permutations-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
