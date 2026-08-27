@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
