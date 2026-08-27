@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0136-single-number/) | Easy |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
