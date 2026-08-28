@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1089-duplicate-zeros/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
