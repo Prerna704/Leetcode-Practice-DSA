@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3139-minimum-cost-to-equalize-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3139-minimum-cost-to-equalize-array/) | Hard |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [3139-minimum-cost-to-equalize-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3139-minimum-cost-to-equalize-array/) | Hard |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
+| [3139-minimum-cost-to-equalize-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3139-minimum-cost-to-equalize-array/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Graph Theory
