@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0608-tree-node/) | Medium |
 | [0626-exchange-seats](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1070-product-sales-analysis-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [3374-first-letter-capitalization-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3451-find-invalid-ip-addresses](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 | [3482-analyze-organization-hierarchy](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3482-analyze-organization-hierarchy/) | Hard |
