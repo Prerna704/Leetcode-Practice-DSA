@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0517-super-washing-machines](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0517-super-washing-machines/) | Hard |
 | [0561-array-partition](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0611-valid-triangle-number/) | Medium |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
+| [0517-super-washing-machines](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0517-super-washing-machines/) | Hard |
 | [0561-array-partition](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0611-valid-triangle-number/) | Medium |
