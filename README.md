@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-first-letter-capitalization-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3374-first-letter-capitalization-ii/) | Hard |
 | [3451-find-invalid-ip-addresses](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3451-find-invalid-ip-addresses/) | Hard |
 | [3482-analyze-organization-hierarchy](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3482-analyze-organization-hierarchy/) | Hard |
+| [3554-find-category-recommendation-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3554-find-category-recommendation-pairs/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
