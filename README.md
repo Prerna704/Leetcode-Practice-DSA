@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1089-duplicate-zeros/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
