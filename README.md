@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
