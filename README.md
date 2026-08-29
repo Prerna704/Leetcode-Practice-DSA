@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1323-maximum-69-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Stack
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1323-maximum-69-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1323-maximum-69-number/) | Easy |
 | [1510-stone-game-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
