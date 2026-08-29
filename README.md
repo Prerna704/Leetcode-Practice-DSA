@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
