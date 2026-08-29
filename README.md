@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
+| [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
