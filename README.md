@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
