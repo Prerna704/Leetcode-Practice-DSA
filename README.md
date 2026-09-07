@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
