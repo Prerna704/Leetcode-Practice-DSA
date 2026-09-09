@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
+| [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0402-remove-k-digits/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
