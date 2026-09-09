@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3871-count-commas-in-range-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
