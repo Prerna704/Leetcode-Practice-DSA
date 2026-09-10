@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0090-subsets-ii/) | Medium |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
