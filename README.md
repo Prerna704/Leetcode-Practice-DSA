@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
