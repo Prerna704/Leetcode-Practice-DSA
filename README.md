@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3273-minimum-amount-of-damage-dealt-to-bob/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
