@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
+| [0593-valid-square](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0593-valid-square/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1323-maximum-69-number/) | Easy |
@@ -654,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0593-valid-square](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0593-valid-square/) | Medium |
 <!---LeetCode Topics End-->
