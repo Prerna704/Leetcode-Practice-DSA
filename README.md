@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1929-concatenation-of-array/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
@@ -366,12 +369,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0420-strong-password-checker](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0420-strong-password-checker/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -389,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
