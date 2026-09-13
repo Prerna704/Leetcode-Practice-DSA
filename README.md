@@ -556,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0183-customers-who-never-order/) | Easy |
+| [0262-trips-and-users](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
