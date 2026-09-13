@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0835-image-overlap](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0835-image-overlap/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0997-find-the-town-judge/) | Easy |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [0835-image-overlap](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0835-image-overlap/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
