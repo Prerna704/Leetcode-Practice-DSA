@@ -4,6 +4,7 @@ class Solution {
         int ans=0;
         int l=1;
         int h=piles[0];
+        // choose max for h
         for(int pile:piles){
             h=Math.max(h,pile);
         }
