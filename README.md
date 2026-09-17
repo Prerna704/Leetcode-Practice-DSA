@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1510-stone-game-iv/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
