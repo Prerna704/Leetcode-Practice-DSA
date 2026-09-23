@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0258-add-digits/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Greedy
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0258-add-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0258-add-digits/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0593-valid-square](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0593-valid-square/) | Medium |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0258-add-digits/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
