@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0133-clone-graph](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
