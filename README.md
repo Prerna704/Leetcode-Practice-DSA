@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0148-sort-list/) | Medium |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -514,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0593-valid-square](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0593-valid-square/) | Medium |
