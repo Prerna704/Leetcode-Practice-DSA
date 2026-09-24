@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0517-super-washing-machines](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0517-super-washing-machines/) | Hard |
