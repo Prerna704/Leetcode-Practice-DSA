@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1089-duplicate-zeros](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1089-duplicate-zeros/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0997-find-the-town-judge/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
