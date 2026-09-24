@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1470-shuffle-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
