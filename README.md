@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1872-stone-game-viii/) | Hard |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3260-find-the-largest-palindrome-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3260-find-the-largest-palindrome-divisible-by-k/) | Hard |
 | [3292-minimum-number-of-valid-strings-to-form-target-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3292-minimum-number-of-valid-strings-to-form-target-ii/) | Hard |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3219-minimum-cost-for-cutting-cake-ii/) | Hard |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1089-duplicate-zeros/) | Easy |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Hash Table
@@ -596,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Database
 | Problem Name | Difficulty |
@@ -716,4 +723,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0020-valid-parentheses/) | Easy |
+## Meet in the Middle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 <!---LeetCode Topics End-->
