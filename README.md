@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0343-integer-break](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0343-integer-break/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1340-jump-game-v](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
+| [0343-integer-break](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0343-integer-break/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0556-next-greater-element-iii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0593-valid-square](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0593-valid-square/) | Medium |
