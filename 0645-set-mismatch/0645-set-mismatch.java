@@ -1,9 +1,11 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int dup = -1;
-        int miss = -1;
+        int d = -1;
+        int m = -1;
         int n = nums.length;
-        for(int i = 1; i <= n;i++){
+        int[] res = new int[2];
+
+        for(int i = 1; i <= n; i++){
             int cnt = 0;
 
             for(int j = 0; j < n; j++){
@@ -12,11 +14,15 @@ class Solution {
                 }
             }
             if(cnt == 2){
-                dup = i;
-            }else if(cnt == 0){
-                miss = i;
+                d= i;
             }
+            else if(cnt == 0){
+                m = i;
+            }
+
         }
-        return new int[] {dup,miss};
+        res[0] = d;
+        res[1] = m;
+        return res;
     }
 }
