@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Breadth-First Search
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0835-image-overlap](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0835-image-overlap/) | Medium |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0561-array-partition/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0611-valid-triangle-number/) | Medium |
+| [0645-set-mismatch](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0645-set-mismatch](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1096-brace-expansion-ii/) | Hard |
