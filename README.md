@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
