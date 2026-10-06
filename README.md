@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2476-closest-nodes-queries-in-a-binary-search-tree/) | Medium |
+| [2765-longest-alternating-subarray](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1862-sum-of-floored-pairs](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1862-sum-of-floored-pairs/) | Hard |
+| [2765-longest-alternating-subarray](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3139-minimum-cost-to-equalize-array/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
