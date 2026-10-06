@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2765-longest-alternating-subarray](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3139-minimum-cost-to-equalize-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3139-minimum-cost-to-equalize-array/) | Hard |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
