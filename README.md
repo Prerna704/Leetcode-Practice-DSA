@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2027-minimum-moves-to-convert-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3381-maximum-subarray-sum-with-length-divisible-by-k/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prerna704/Leetcode-Practice-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
